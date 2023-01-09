@@ -1,0 +1,746 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="TV ABERTA",TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title="TV ABERTA",SBT SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64404
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="TV ABERTA",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48530
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="TV ABERTA",GLOBO GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48532
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="TV ABERTA",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14566
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="TV ABERTA",REDE TV!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48553
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIGZJ45yiak/YTD0rVWsJRI/AAAAAAAAFRE/ksLCYlZQ5xEAkpBizPg95GgwI5VsVc6LACLcBGAsYHQ/s200/TV%2BGAZETA.webp" group-title="TV ABERTA",TV GAZETA SP
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND  SP 4K" tvg-logo="http://www.kanawat.com.br/icons/band.png" group-title="TV ABERTA",BAND  SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15231
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H 3 Palavrinhas" tvg-logo="" group-title="INFANTIL",BR 24H 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76282
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Casa do Mickey Mouse" tvg-logo="" group-title="INFANTIL",BR 24H A Casa do Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76283
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Culpa é do Cabral 02" tvg-logo="" group-title="COMEDIA",BR 24H A Culpa é do Cabral 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76285
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Culpa é do Cabral 03" tvg-logo="" group-title="COMEDIA",BR 24H A Culpa é do Cabral 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76286
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Feiticeira" tvg-logo="" group-title="FILMES",BR 24H A Feiticeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76287
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Grande Familia 1" tvg-logo="" group-title="COMEDIA",BR 24H A Grande Familia 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76288
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Grande Familia 2" tvg-logo="" group-title="COMEDIA",BR 24H A Grande Familia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76289
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Guarda do Leão" tvg-logo="" group-title="INFANTIL",BR 24H A Guarda do Leão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76290
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H A Roda do Ônibus" tvg-logo="" group-title="INFANTIL",BR 24H A Roda do Ônibus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76292
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Aladdin" tvg-logo="" group-title="INFANTIL",BR 24H Aladdin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76293
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Angry Birds" tvg-logo="" group-title="INFANTIL",BR 24H Angry Birds
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76294
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Apenas um Show" tvg-logo="" group-title="INFANTIL",BR 24H Apenas um Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76295
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H As Aventuras do Batman 01" tvg-logo="" group-title="INFANTIL",BR 24H As Aventuras do Batman 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76296
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H As Aventuras do Batman 02" tvg-logo="" group-title="INFANTIL",BR 24H As Aventuras do Batman 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76297
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H As Meninas Superpoderosas" tvg-logo="" group-title="INFANTIL",BR 24H As Meninas Superpoderosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76298
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Auto da Comparecida" tvg-logo="" group-title="COMEDIA",BR 24H Auto da Comparecida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76299
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Baby Looney Tunes" tvg-logo="" group-title="INFANTIL",BR 24H Baby Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76300
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H BEN 10 - 01" tvg-logo="" group-title="INFANTIL",BR 24H BEN 10 - 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76301
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H BEN 10 2" tvg-logo="" group-title="INFANTIL",BR 24H BEN 10 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76302
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Bita e os Animais" tvg-logo="" group-title="INFANTIL",BR 24H Bita e os Animais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76303
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Bob Esponja 01" tvg-logo="" group-title="INFANTIL",BR 24H Bob Esponja 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76305
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Bob o Trem 1" tvg-logo="" group-title="INFANTIL",BR 24H Bob o Trem 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76306
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Bob o Trem 2" tvg-logo="" group-title="INFANTIL",BR 24H Bob o Trem 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76307
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Bob Zoom 1" tvg-logo="" group-title="INFANTIL",BR 24H Bob Zoom 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76308
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Bob Zoom 2" tvg-logo="" group-title="INFANTIL",BR 24H Bob Zoom 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76309
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Booba 1" tvg-logo="" group-title="INFANTIL",BR 24H Booba 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76310
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Booba 2" tvg-logo="" group-title="INFANTIL",BR 24H Booba 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76311
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Caillou" tvg-logo="" group-title="INFANTIL",BR 24H Caillou
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76312
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cascão A Turma da Monica" tvg-logo="" group-title="INFANTIL",BR 24H Cascão A Turma da Monica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76313
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cavaleiros do Zodiaco 1" tvg-logo="" group-title="INFANTIL",BR 24H Cavaleiros do Zodiaco 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76314
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cavaleiros do Zodiaco 2" tvg-logo="" group-title="INFANTIL",BR 24H Cavaleiros do Zodiaco 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76315
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cavaleiros do Zodiaco 3" tvg-logo="" group-title="INFANTIL",BR 24H Cavaleiros do Zodiaco 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76316
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cavaleiros do Zodiaco 4" tvg-logo="" group-title="INFANTIL",BR 24H Cavaleiros do Zodiaco 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76317
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cavaleiros do Zodiaco 5" tvg-logo="" group-title="INFANTIL",BR 24H Cavaleiros do Zodiaco 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76318
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Cavaleiros do Zodiaco 6" tvg-logo="" group-title="INFANTIL",BR 24H Cavaleiros do Zodiaco 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76319
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Caverna do Dragão 1" tvg-logo="" group-title="INFANTIL",BR 24H Caverna do Dragão 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76320
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Chapolin 1" tvg-logo="" group-title="COMEDIA",BR 24H Chapolin 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76322
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Chaves 1" tvg-logo="" group-title="COMEDIA",BR 24H Chaves 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76323
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Chaves Desenho" tvg-logo="" group-title="INFANTIL",BR 24H Chaves Desenho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76324
+#EXTINF:-1 tvg-id="" tvg-name="O Otimista" tvg-logo="" group-title="INFANTIL",O Otimista
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76325
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Coragem o Cão Covarde 1" tvg-logo="" group-title="INFANTIL",BR 24H Coragem o Cão Covarde 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76326
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Coragem o Cão Covarde 2" tvg-logo="" group-title="INFANTIL",BR 24H Coragem o Cão Covarde 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76327
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Corrida Maluca 1" tvg-logo="" group-title="INFANTIL",BR 24H Corrida Maluca 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76328
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Corrida Maluca 1968" tvg-logo="" group-title="INFANTIL",BR 24H Corrida Maluca 1968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76329
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Corrida Maluca 2" tvg-logo="" group-title="INFANTIL",BR 24H Corrida Maluca 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76330
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Corrida Maluca 3" tvg-logo="" group-title="INFANTIL",BR 24H Corrida Maluca 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76331
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon 1" tvg-logo="" group-title="INFANTIL",BR 24H Digimon 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76332
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon 15º Aniversário" tvg-logo="" group-title="INFANTIL",BR 24H Digimon 15º Aniversário
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76333
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon 2" tvg-logo="" group-title="INFANTIL",BR 24H Digimon 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76334
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon Adventure Zero Two" tvg-logo="" group-title="INFANTIL",BR 24H Digimon Adventure Zero Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76335
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon Frontier" tvg-logo="" group-title="INFANTIL",BR 24H Digimon Frontier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76336
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon Savers" tvg-logo="" group-title="INFANTIL",BR 24H Digimon Savers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76337
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Digimon Tamers" tvg-logo="" group-title="INFANTIL",BR 24H Digimon Tamers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76338
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 01" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76339
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 02" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76340
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 03" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76341
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 04" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76342
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 05" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76343
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 06" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76344
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 07" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76345
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 08" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76346
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 09" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76347
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 10" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76348
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 11" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76349
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dois Homens e Meio 12" tvg-logo="" group-title="COMEDIA",BR 24H Dois Homens e Meio 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76350
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dora Aventureira 01" tvg-logo="" group-title="INFANTIL",BR 24H Dora Aventureira 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76351
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dora Aventureira 2" tvg-logo="" group-title="INFANTIL",BR 24H Dora Aventureira 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76352
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Doug 1" tvg-logo="" group-title="INFANTIL",BR 24H Doug 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76353
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Doug 2" tvg-logo="" group-title="INFANTIL",BR 24H Doug 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76354
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball 1" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76355
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball 2" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76356
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball Heroes" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball Heroes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76357
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball Super 1" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball Super 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76358
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball Super 2" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball Super 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76359
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball Super 3" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball Super 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76360
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball Z 1" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball Z 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76361
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball Z 2" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball Z 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76362
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Dragon Ball [Filmes 1]" tvg-logo="" group-title="INFANTIL",BR 24H Dragon Ball [Filmes 1]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76363
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Em Busca do Vale Encantado" tvg-logo="" group-title="INFANTIL",BR 24H Em Busca do Vale Encantado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76365
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Escolinha do Professor Raimundo" tvg-logo="" group-title="COMEDIA",BR 24H Escolinha do Professor Raimundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76366
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Eu a Patroa e as Crianças 1" tvg-logo="" group-title="COMEDIA",BR 24H Eu a Patroa e as Crianças 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76367
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Eu a Patroa e as Crianças 2" tvg-logo="" group-title="COMEDIA",BR 24H Eu a Patroa e as Crianças 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76368
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Eu a Patroa e as Crianças 3" tvg-logo="" group-title="COMEDIA",BR 24H Eu a Patroa e as Crianças 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76369
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Eu a Patroa e as Crianças 4" tvg-logo="" group-title="COMEDIA",BR 24H Eu a Patroa e as Crianças 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76370
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Eu a Patroa e as Crianças 5" tvg-logo="" group-title="COMEDIA",BR 24H Eu a Patroa e as Crianças 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76371
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Formiga Atômica" tvg-logo="" group-title="INFANTIL",BR 24H Formiga Atômica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76372
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Freakazoid" tvg-logo="" group-title="INFANTIL",BR 24H Freakazoid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76373
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 01" tvg-logo="" group-title="FILMES",BR 24H Friends 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76374
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 02" tvg-logo="" group-title="FILMES",BR 24H Friends 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76375
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 03" tvg-logo="" group-title="FILMES",BR 24H Friends 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76376
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 04" tvg-logo="" group-title="FILMES",BR 24H Friends 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76377
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 05" tvg-logo="" group-title="FILMES",BR 24H Friends 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76378
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 06" tvg-logo="" group-title="FILMES",BR 24H Friends 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76379
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 07" tvg-logo="" group-title="FILMES",BR 24H Friends 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76380
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 08" tvg-logo="" group-title="FILMES",BR 24H Friends 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76381
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 09" tvg-logo="" group-title="FILMES",BR 24H Friends 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76382
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Friends 10" tvg-logo="" group-title="FILMES",BR 24H Friends 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76383
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Futurama" tvg-logo="" group-title="INFANTIL",BR 24H Futurama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76384
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Galinha Pintadinha" tvg-logo="" group-title="INFANTIL",BR 24H Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76385
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Galo e a Pata" tvg-logo="" group-title="INFANTIL",BR 24H Galo e a Pata
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76386
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Garfield 01" tvg-logo="" group-title="INFANTIL",BR 24H Garfield 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76387
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Garfield 02" tvg-logo="" group-title="INFANTIL",BR 24H Garfield 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76388
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Garfield 03" tvg-logo="" group-title="INFANTIL",BR 24H Garfield 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76389
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H He-Man 1" tvg-logo="" group-title="INFANTIL",BR 24H He-Man 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76390
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H He-Man 2" tvg-logo="" group-title="INFANTIL",BR 24H He-Man 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76391
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H He-Man 2002" tvg-logo="" group-title="INFANTIL",BR 24H He-Man 2002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76392
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H He-Man 3" tvg-logo="" group-title="INFANTIL",BR 24H He-Man 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76393
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Homem Aranha Animado 1" tvg-logo="" group-title="INFANTIL",BR 24H Homem Aranha Animado 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76394
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Homem Aranha Animado 2" tvg-logo="" group-title="INFANTIL",BR 24H Homem Aranha Animado 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76395
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Homem de Ferro 01" tvg-logo="" group-title="INFANTIL",BR 24H Homem de Ferro 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76396
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Homem de Ferro 02" tvg-logo="" group-title="INFANTIL",BR 24H Homem de Ferro 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76397
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Homem de Ferro 1994" tvg-logo="" group-title="INFANTIL",BR 24H Homem de Ferro 1994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76398
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Irmão do Jorel 1" tvg-logo="" group-title="INFANTIL",BR 24H Irmão do Jorel 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76399
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Irmão do Jorel 2" tvg-logo="" group-title="INFANTIL",BR 24H Irmão do Jorel 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76400
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Jacarelvis" tvg-logo="" group-title="INFANTIL",BR 24H Jacarelvis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76401
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Jiraya" tvg-logo="" group-title="INFANTIL",BR 24H Jiraya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76402
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Johnny Bravo" tvg-logo="" group-title="INFANTIL",BR 24H Johnny Bravo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76403
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Johnny Test" tvg-logo="" group-title="INFANTIL",BR 24H Johnny Test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76404
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Kenan e Kel" tvg-logo="" group-title="MUSICA",BR 24H Kenan e Kel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76405
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Larva Chiclete" tvg-logo="" group-title="INFANTIL",BR 24H Larva Chiclete
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76406
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Leo O-Caminhão" tvg-logo="" group-title="INFANTIL",BR 24H Leo O-Caminhão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76407
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Liga da Justica" tvg-logo="" group-title="INFANTIL",BR 24H Liga da Justica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76408
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Looney Tunes" tvg-logo="" group-title="INFANTIL",BR 24H Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76409
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Luluzinha 1" tvg-logo="" group-title="INFANTIL",BR 24H Luluzinha 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76410
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Luluzinha 2" tvg-logo="" group-title="INFANTIL",BR 24H Luluzinha 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76411
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Masha e o Urso" tvg-logo="" group-title="INFANTIL",BR 24H Masha e o Urso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76412
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Medabots" tvg-logo="" group-title="INFANTIL",BR 24H Medabots
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76413
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H MegaMan" tvg-logo="" group-title="INFANTIL",BR 24H MegaMan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76414
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Moranguinho 1" tvg-logo="" group-title="INFANTIL",BR 24H Moranguinho 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76415
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Moranguinho 2" tvg-logo="" group-title="INFANTIL",BR 24H Moranguinho 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76416
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Naruto" tvg-logo="" group-title="INFANTIL",BR 24H Naruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76417
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H O Clube das Winx" tvg-logo="" group-title="INFANTIL",BR 24H O Clube das Winx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76418
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Oggy e as Baratas" tvg-logo="" group-title="INFANTIL",BR 24H Oggy e as Baratas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76419
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H One Piece East Blue" tvg-logo="" group-title="INFANTIL",BR 24H One Piece East Blue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76420
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Flinstones" tvg-logo="" group-title="INFANTIL",BR 24H Os Flinstones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76421
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Jetson" tvg-logo="" group-title="INFANTIL",BR 24H Os Jetson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76422
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Padrinhos Mágicos 01" tvg-logo="" group-title="INFANTIL",BR 24H Os Padrinhos Mágicos 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76423
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Padrinhos Mágicos 02" tvg-logo="" group-title="INFANTIL",BR 24H Os Padrinhos Mágicos 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76424
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Padrinhos Mágicos 03" tvg-logo="" group-title="INFANTIL",BR 24H Os Padrinhos Mágicos 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76425
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Padrinhos Mágicos 04" tvg-logo="" group-title="INFANTIL",BR 24H Os Padrinhos Mágicos 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76426
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Padrinhos Mágicos 05" tvg-logo="" group-title="INFANTIL",BR 24H Os Padrinhos Mágicos 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76427
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Patos" tvg-logo="" group-title="INFANTIL",BR 24H Os Patos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76428
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Simpsons 01" tvg-logo="" group-title="INFANTIL",BR 24H Os Simpsons 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76429
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Simpsons 02" tvg-logo="" group-title="INFANTIL",BR 24H Os Simpsons 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76430
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Simpsons 03" tvg-logo="" group-title="INFANTIL",BR 24H Os Simpsons 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76431
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Simpsons 04" tvg-logo="" group-title="INFANTIL",BR 24H Os Simpsons 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76432
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Os Trapalhões" tvg-logo="" group-title="COMEDIA",BR 24H Os Trapalhões
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76433
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pantera Cor de Rosa 1" tvg-logo="" group-title="INFANTIL",BR 24H Pantera Cor de Rosa 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76434
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pantera Cor de Rosa 2" tvg-logo="" group-title="INFANTIL",BR 24H Pantera Cor de Rosa 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76435
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patati e Patata 01" tvg-logo="" group-title="INFANTIL",BR 24H Patati e Patata 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76436
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patati e Patata 02" tvg-logo="" group-title="INFANTIL",BR 24H Patati e Patata 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76437
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patati e Patata 03" tvg-logo="" group-title="INFANTIL",BR 24H Patati e Patata 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76438
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pato Donald" tvg-logo="" group-title="INFANTIL",BR 24H Pato Donald
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76439
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patrulha Canina 1" tvg-logo="" group-title="PATRULHA CANINA",BR 24H Patrulha Canina 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76440
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patrulha Canina 2" tvg-logo="" group-title="PATRULHA CANINA",BR 24H Patrulha Canina 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76441
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patrulha Canina 3" tvg-logo="" group-title="PATRULHA CANINA",BR 24H Patrulha Canina 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76442
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patrulha Canina 4" tvg-logo="" group-title="PATRULHA CANINA",BR 24H Patrulha Canina 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76443
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patrulha Canina 5" tvg-logo="" group-title="PATRULHA CANINA",BR 24H Patrulha Canina 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76444
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Patrulha Canina 6" tvg-logo="" group-title="PATRULHA CANINA",BR 24H Patrulha Canina 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76445
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Peppa Pig" tvg-logo="" group-title="INFANTIL",BR 24H Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76446
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pequena Sereia" tvg-logo="" group-title="INFANTIL",BR 24H Pequena Sereia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76447
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pernalonga 01" tvg-logo="" group-title="INFANTIL",BR 24H Pernalonga 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76448
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pernalonga 02" tvg-logo="" group-title="INFANTIL",BR 24H Pernalonga 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76449
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pica Pau 01" tvg-logo="" group-title="INFANTIL",BR 24H Pica Pau 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76450
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pica Pau 02" tvg-logo="" group-title="INFANTIL",BR 24H Pica Pau 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76451
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pica Pau 03" tvg-logo="" group-title="INFANTIL",BR 24H Pica Pau 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76452
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pink-e-Cerebro" tvg-logo="" group-title="INFANTIL",BR 24H Pink-e-Cerebro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76453
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pintinho Amarelinho 1" tvg-logo="" group-title="INFANTIL",BR 24H Pintinho Amarelinho 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76454
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pintinho Amarelinho 2" tvg-logo="" group-title="INFANTIL",BR 24H Pintinho Amarelinho 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76455
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H PJ Masks" tvg-logo="" group-title="INFANTIL",BR 24H PJ Masks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76456
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pokemon 1" tvg-logo="" group-title="INFANTIL",BR 24H Pokemon 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76457
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Pokemon 2" tvg-logo="" group-title="INFANTIL",BR 24H Pokemon 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76458
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Popeye" tvg-logo="" group-title="INFANTIL",BR 24H Popeye
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76459
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Popeye 75th" tvg-logo="" group-title="INFANTIL",BR 24H Popeye 75th
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76460
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Porta dos Fundos 01" tvg-logo="" group-title="COMEDIA",BR 24H Porta dos Fundos 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76461
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Porta dos Fundos 02" tvg-logo="" group-title="COMEDIA",BR 24H Porta dos Fundos 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76462
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Princesa e o Dragão" tvg-logo="" group-title="INFANTIL",BR 24H Princesa e o Dragão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76463
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Rambo" tvg-logo="" group-title="INFANTIL",BR 24H Rambo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76464
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Reino Gelado" tvg-logo="" group-title="INFANTIL",BR 24H Reino Gelado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76465
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Rick And Morty 1" tvg-logo="" group-title="INFANTIL",BR 24H Rick And Morty 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76466
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Rick And Morty 2" tvg-logo="" group-title="INFANTIL",BR 24H Rick And Morty 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76467
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Rick And Morty 3" tvg-logo="" group-title="INFANTIL",BR 24H Rick And Morty 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76468
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Rick And Morty 4" tvg-logo="" group-title="INFANTIL",BR 24H Rick And Morty 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76469
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Rimas de Berçário" tvg-logo="" group-title="INFANTIL",BR 24H Rimas de Berçário
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76470
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Sakura Card" tvg-logo="" group-title="INFANTIL",BR 24H Sakura Card
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76471
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Samurai Warriors" tvg-logo="" group-title="INFANTIL",BR 24H Samurai Warriors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76472
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Samurai-X 1" tvg-logo="" group-title="INFANTIL",BR 24H Samurai-X 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76473
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Samurai-X 2" tvg-logo="" group-title="INFANTIL",BR 24H Samurai-X 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76474
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Sapo Não Lava o Pé 01" tvg-logo="" group-title="INFANTIL",BR 24H Sapo Não Lava o Pé 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76475
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Sapo Não Lava o Pé 02" tvg-logo="" group-title="INFANTIL",BR 24H Sapo Não Lava o Pé 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76476
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Scooby-Doo" tvg-logo="" group-title="INFANTIL",BR 24H Scooby-Doo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76477
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Scooby-Doo - 13 Fantasmas 1985" tvg-logo="" group-title="INFANTIL",BR 24H Scooby-Doo - 13 Fantasmas 1985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76478
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Shaman King" tvg-logo="" group-title="INFANTIL",BR 24H Shaman King
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76479
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H She-ra" tvg-logo="" group-title="INFANTIL",BR 24H She-ra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76480
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Shinzo" tvg-logo="" group-title="INFANTIL",BR 24H Shinzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76481
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Show da Luna" tvg-logo="" group-title="INFANTIL",BR 24H Show da Luna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76482
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Shurato" tvg-logo="" group-title="INFANTIL",BR 24H Shurato
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76483
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Silver Hawks" tvg-logo="" group-title="INFANTIL",BR 24H Silver Hawks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76484
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Simon" tvg-logo="" group-title="INFANTIL",BR 24H Simon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76485
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Sitio do Pica-Pau Amarelo" tvg-logo="" group-title="INFANTIL",BR 24H Sitio do Pica-Pau Amarelo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76486
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 01" tvg-logo="" group-title="FILMES",BR 24H Smallville 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76487
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 02" tvg-logo="" group-title="FILMES",BR 24H Smallville 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76488
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 03" tvg-logo="" group-title="FILMES",BR 24H Smallville 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76489
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 04" tvg-logo="" group-title="FILMES",BR 24H Smallville 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76490
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 05" tvg-logo="" group-title="FILMES",BR 24H Smallville 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76491
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 06" tvg-logo="" group-title="FILMES",BR 24H Smallville 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76492
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 07" tvg-logo="" group-title="FILMES",BR 24H Smallville 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76493
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 08" tvg-logo="" group-title="FILMES",BR 24H Smallville 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76494
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 09" tvg-logo="" group-title="FILMES",BR 24H Smallville 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76495
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Smallville 10" tvg-logo="" group-title="FILMES",BR 24H Smallville 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76496
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H South Park 01" tvg-logo="" group-title="INFANTIL",BR 24H South Park 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76497
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H South Park 02" tvg-logo="" group-title="INFANTIL",BR 24H South Park 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76498
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H South Park 03" tvg-logo="" group-title="INFANTIL",BR 24H South Park 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76499
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Speed-Racer" tvg-logo="" group-title="INFANTIL",BR 24H Speed-Racer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76500
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Steven Universe" tvg-logo="" group-title="INFANTIL",BR 24H Steven Universe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76501
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Street Fighter 2" tvg-logo="" group-title="INFANTIL",BR 24H Street Fighter 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76502
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Super Choque 1" tvg-logo="" group-title="INFANTIL",BR 24H Super Choque 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76503
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Super Choque 2" tvg-logo="" group-title="INFANTIL",BR 24H Super Choque 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76504
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Super Mario Bros 1" tvg-logo="" group-title="INFANTIL",BR 24H Super Mario Bros 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76505
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Super Mario Bros 2" tvg-logo="" group-title="INFANTIL",BR 24H Super Mario Bros 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76506
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Superman - Homem do Amanhã" tvg-logo="" group-title="INFANTIL",BR 24H Superman - Homem do Amanhã
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76507
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Superman Animado 01" tvg-logo="" group-title="INFANTIL",BR 24H Superman Animado 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76508
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Superman Animado 02" tvg-logo="" group-title="INFANTIL",BR 24H Superman Animado 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76509
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 01" tvg-logo="" group-title="FILMES",BR 24H Supernatural 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76510
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 02" tvg-logo="" group-title="FILMES",BR 24H Supernatural 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76511
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 03" tvg-logo="" group-title="FILMES",BR 24H Supernatural 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76512
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 04" tvg-logo="" group-title="FILMES",BR 24H Supernatural 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76513
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 05" tvg-logo="" group-title="FILMES",BR 24H Supernatural 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76514
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 06" tvg-logo="" group-title="FILMES",BR 24H Supernatural 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76515
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 07" tvg-logo="" group-title="FILMES",BR 24H Supernatural 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76516
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 08" tvg-logo="" group-title="FILMES",BR 24H Supernatural 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76517
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 09" tvg-logo="" group-title="FILMES",BR 24H Supernatural 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76518
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 10" tvg-logo="" group-title="FILMES",BR 24H Supernatural 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76519
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 11" tvg-logo="" group-title="FILMES",BR 24H Supernatural 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76520
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 12" tvg-logo="" group-title="FILMES",BR 24H Supernatural 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76521
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 13" tvg-logo="" group-title="FILMES",BR 24H Supernatural 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76522
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Supernatural 14" tvg-logo="" group-title="FILMES",BR 24H Supernatural 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76523
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Tartarugas Ninjas" tvg-logo="" group-title="INFANTIL",BR 24H Tartarugas Ninjas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76524
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Team-Galaxy" tvg-logo="" group-title="INFANTIL",BR 24H Team-Galaxy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76525
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Thiago Ventura" tvg-logo="" group-title="MUSICA",BR 24H Thiago Ventura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76526
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Thundercats" tvg-logo="" group-title="INFANTIL",BR 24H Thundercats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76527
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Timão e Pumba 01" tvg-logo="" group-title="INFANTIL",BR 24H Timão e Pumba 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76528
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Timão e Pumba 02" tvg-logo="" group-title="INFANTIL",BR 24H Timão e Pumba 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76529
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 1" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76530
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 2" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76531
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 3" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76532
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 4" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76533
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 5" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76534
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 6" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76535
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 7" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76536
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Todo Mundo Odeia o Chris 8" tvg-logo="" group-title="COMEDIA",BR 24H Todo Mundo Odeia o Chris 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76537
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Tom & Jerry" tvg-logo="" group-title="INFANTIL",BR 24H Tom & Jerry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76538
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Três Espiãs Demais" tvg-logo="" group-title="INFANTIL",BR 24H Três Espiãs Demais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76539
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Turma da Mônica" tvg-logo="" group-title="INFANTIL",BR 24H Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76540
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Turma do Pateta" tvg-logo="" group-title="INFANTIL",BR 24H Turma do Pateta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76541
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Ultraman" tvg-logo="" group-title="INFANTIL",BR 24H Ultraman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76542
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Um Maluco no Pedaço 1" tvg-logo="" group-title="COMEDIA",BR 24H Um Maluco no Pedaço 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76543
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Um Maluco no Pedaço 2" tvg-logo="" group-title="COMEDIA",BR 24H Um Maluco no Pedaço 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76544
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Um Maluco no Pedaço 3" tvg-logo="" group-title="COMEDIA",BR 24H Um Maluco no Pedaço 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76545
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Um Maluco no Pedaço 4" tvg-logo="" group-title="COMEDIA",BR 24H Um Maluco no Pedaço 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76546
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Um Maluco no Pedaço 5" tvg-logo="" group-title="COMEDIA",BR 24H Um Maluco no Pedaço 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76547
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Um Maluco no Pedaço 6" tvg-logo="" group-title="COMEDIA",BR 24H Um Maluco no Pedaço 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76548
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Uma Família da Pesada 1" tvg-logo="" group-title="FILMES",BR 24H Uma Família da Pesada 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76549
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Ursinhos Carinhosos 1" tvg-logo="" group-title="INFANTIL",BR 24H Ursinhos Carinhosos 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76550
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Ursinhos Carinhosos 2" tvg-logo="" group-title="INFANTIL",BR 24H Ursinhos Carinhosos 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76551
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 1" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76552
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 2" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76553
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 3" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76554
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 4" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76555
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 5" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76556
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 6" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76557
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 7" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76558
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Vai que Cola 8" tvg-logo="" group-title="COMEDIA",BR 24H Vai que Cola 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76559
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Wally Gator" tvg-logo="" group-title="FILMES1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76560
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Wolverine e os X-Men" tvg-logo="" group-title="FILMES",BR 24H Wolverine e os X-Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76561
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H X-Men 1" tvg-logo="" group-title="FILMES",BR 24H X-Men 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76562
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H X-Men 2" tvg-logo="" group-title="FILMES",BR 24H X-Men 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76563
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Xena" tvg-logo="" group-title="FILMES",BR 24H Xena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76564
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Xuxa só para Baixinhos 1" tvg-logo="" group-title="INFANTIL1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76565
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Xuxa só para Baixinhos 2" tvg-logo="" group-title="INFANTIL",BR 24H Xuxa só para Baixinhos 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76566
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YT-Delegado Dacunha 01" tvg-logo="" group-title="POLICIAL",BR 24H YT-Delegado Dacunha 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76567
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YT-Delegado Dacunha 02" tvg-logo="" group-title="POLICIAL",BR 24H YT-Delegado Dacunha 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76568
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YT-Delegado Dacunha 03" tvg-logo="" group-title="POLICIAL",BR 24H YT-Delegado Dacunha 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76569
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YT-Delegado Dacunha 04" tvg-logo="" group-title="POLICIAL",BR 24H YT-Delegado Dacunha 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76570
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YT-Investigação Criminal" tvg-logo="" group-title="POLICIAL",BR 24H YT-Investigação Criminal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76571
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YT-Policia Militar" tvg-logo="" group-title="POLICIAL",BR 24H YT-Policia Militar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76572
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H YU-YU-Hakusho" tvg-logo="" group-title="INFANTIL",BR 24H YU-YU-Hakusho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76573
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Zatch Bell" tvg-logo="" group-title="INFANTIL",BR 24H Zatch Bell
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76574
+#EXTINF:-1 tvg-id="" tvg-name="BR 24H Zé Buscapé" tvg-logo="" group-title="INFANTIL",BR 24H Zé Buscapé
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76575
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HDC Comics 01" tvg-logo="" group-title="FILMES",BR 24HDC Comics 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76576
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HDC Comics 02" tvg-logo="" group-title="FILMES",BR 24HDC Comics 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76577
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HDisney Clássico 01" tvg-logo="" group-title="INFANTIL",BR 24HDisney Clássico 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76578
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HDisney Clássico 02" tvg-logo="" group-title="INFANTIL",BR 24HDisney Clássico 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76579
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HEduardo Costa [Aqui em Uberlândia]" tvg-logo="" group-title="MUSICA",BR 24HEduardo Costa [Aqui em Uberlândia]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76580
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HEduardo Costa [Especial Dia dos Namorados]" tvg-logo="" group-title="MUSICA",BR 24HEduardo Costa [Especial Dia dos Namorados]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76581
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HGusttavo Lima [Buteco em BH]" tvg-logo="" group-title="MUSICA",BR 24HGusttavo Lima [Buteco em BH]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76582
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HGusttavo Lima [Buteco Em Casa 1]" tvg-logo="" group-title="MUSICA",BR 24HGusttavo Lima [Buteco Em Casa 1]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76583
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HGusttavo Lima [Embaixador no Agronegócio]" tvg-logo="" group-title="MUSICA",BR 24HGusttavo Lima [Embaixador no Agronegócio]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76584
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HGusttavo Lima [Especial São João]" tvg-logo="" group-title="MUSICA",BR 24HGusttavo Lima [Especial São João]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76585
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HGusttavo Lima [Festa do Peão Barretos]" tvg-logo="" group-title="MUSICA",BR 24HGusttavo Lima [Festa do Peão Barretos]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76586
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HGusttavo Lima [YouTube Music]" tvg-logo="" group-title="MUSICA",BR 24HGusttavo Lima [YouTube Music]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76587
+#EXTINF:-1 tvg-id="" tvg-name="Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="" group-title="MUSICA",Daniel e Leonardo [Live Buteco em Casa 3]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76588
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HHarry Potter 01" tvg-logo="" group-title="FILMES",BR 24HHarry Potter 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76589
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HHarry Potter 02" tvg-logo="" group-title="FILMES",BR 24HHarry Potter 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76590
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HHenrique e Juliano [Live Liberdade Provisória]" tvg-logo="" group-title="MUSICA",BR 24HHenrique e Juliano [Live Liberdade Provisória]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76591
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJogos Mortais 01" tvg-logo="" group-title="FILMES",BR 24HJogos Mortais 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76592
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJogos Mortais 02" tvg-logo="" group-title="FILMES",BR 24HJogos Mortais 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76593
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJogos Vorazes - Quadrilogia" tvg-logo="" group-title="FILMES",BR 24HJogos Vorazes - Quadrilogia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76594
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJohn Wick - Trilogia" tvg-logo="" group-title="FILMES",BR 24HJohn Wick - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76595
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJorge e Mateus [Na Praia Hotel]" tvg-logo="" group-title="MUSICA",BR 24HJorge e Mateus [Na Praia Hotel]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76596
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJorge e Mateus [Pelo Amor de Deus]" tvg-logo="" group-title="MUSICA",BR 24HJorge e Mateus [Pelo Amor de Deus]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76597
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HJorge e Mateus [Sunset]" tvg-logo="" group-title="MUSICA",BR 24HJorge e Mateus [Sunset]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76598
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HLeonardo e Eduardo Costa [Cabaré]" tvg-logo="" group-title="MUSICA",BR 24HLeonardo e Eduardo Costa [Cabaré]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76599
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HLeonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="" group-title="MUSICA",BR 24HLeonardo e Luiza e Maurílio [Aqui em Uberlândia]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76600
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HLeonardo e Zé Felipe [Pai e Filho]" tvg-logo="" group-title="MUSICA",BR 24HLeonardo e Zé Felipe [Pai e Filho]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76601
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaiara e Maraisa [Aqui em Casa 1]" tvg-logo="" group-title="MUSICA",BR 24HMaiara e Maraisa [Aqui em Casa 1]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76603
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaiara e Maraisa [Aqui em Casa 2]" tvg-logo="" group-title="MUSICA",BR 24HMaiara e Maraisa [Aqui em Casa 2]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76604
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaiara e Maraisa [Aqui na Fazenda]" tvg-logo="" group-title="MUSICA",BR 24HMaiara e Maraisa [Aqui na Fazenda]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76605
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaiara e Maraisa [Drive-In Na Terra]" tvg-logo="" group-title="MUSICA",BR 24HMaiara e Maraisa [Drive-In Na Terra]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76606
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaiara e Maraisa [Fun Live]" tvg-logo="" group-title="MUSICA",BR 24HMaiara e Maraisa [Fun Live]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76607
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaiara e Maraisa [Workshow]" tvg-logo="" group-title="MUSICA",BR 24HMaiara e Maraisa [Workshow]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76608
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarilia Mendonça [Lado B]" tvg-logo="" group-title="MUSICA",BR 24HMarilia Mendonça [Lado B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76609
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarilia Mendonça [Live Local]" tvg-logo="" group-title="MUSICA",BR 24HMarilia Mendonça [Live Local]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76610
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarilia Mendonça [Todos os Cantos]" tvg-logo="" group-title="MUSICA",BR 24HMarilia Mendonça [Todos os Cantos]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76611
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarilia Mendonça [Workshow]" tvg-logo="" group-title="MUSICA",BR 24HMarilia Mendonça [Workshow]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76612
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarvel 01" tvg-logo="" group-title="FILMES",BR 24HMarvel 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76613
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarvel 02" tvg-logo="" group-title="FILMES",BR 24HMarvel 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76614
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarvel 03" tvg-logo="" group-title="FILMES",BR 24HMarvel 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76615
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMarvel 04" tvg-logo="" group-title="FILMES",BR 24HMarvel 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76616
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HMaze Runner - Trilogia" tvg-logo="" group-title="FILMES",BR 24HMaze Runner - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76617
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HO Hobbit - Trilogia" tvg-logo="" group-title="FILMES",BR 24HO Hobbit - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76618
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HO Senhor dos Aneis - Trilogia" tvg-logo="" group-title="FILMES",BR 24HO Senhor dos Aneis - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76619
+
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HSimone e Simaria [Live das Coleguinhas 2]" tvg-logo="" group-title="MUSICA",BR 24HSimone e Simaria [Live das Coleguinhas 2]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76624
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HSimone e Simaria [Pocket Show]" tvg-logo="" group-title="MUSICA",BR 24HSimone e Simaria [Pocket Show]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76625
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HSó Pra Contrariar [Especial 30 Anos]" tvg-logo="" group-title="MUSICA",BR 24HSó Pra Contrariar [Especial 30 Anos]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76628
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HSó Pra Contrariar [Session 2]" tvg-logo="" group-title="MUSICA",BR 24HSó Pra Contrariar [Session 2]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76629
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HTrio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]" tvg-logo="" group-title="MUSICA",BR 24HTrio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76630
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HTrio Parada Dura [A Última Live - Especial Parrerito]" tvg-logo="" group-title="MUSICA",BR 24HTrio Parada Dura [A Última Live - Especial Parrerito]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76631
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HVillaMix em Casa [Só Modão]" tvg-logo="" group-title="MUSICA",BR 24HVillaMix em Casa [Só Modão]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76632
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HWesley Safadão e Raça Negra [Skol Sunset]" tvg-logo="" group-title="MUSICA",BR 24HWesley Safadão e Raça Negra [Skol Sunset]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76633
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HX-Men 01" tvg-logo="" group-title="MUSICA",BR 24HX-Men 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76634
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HX-Men 02" tvg-logo="" group-title="FILMES",BR 24HX-Men 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76635
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HXand Avião e os Barões da Pisadinha [Live Oficial]" tvg-logo="" group-title="MUSICA",BR 24HXand Avião e os Barões da Pisadinha [Live Oficial]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76636
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HZé Neto e Cristiano [Live Barretão]" tvg-logo="" group-title="MUSICA",BR 24HZé Neto e Cristiano [Live Barretão]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76637
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HZé Neto e Cristiano [Live Barzinho Aleatório]" tvg-logo="" group-title="MUSICA",BR 24HZé Neto e Cristiano [Live Barzinho Aleatório]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76638
+#EXTINF:-1 tvg-id="" tvg-name="BR 24HZé Neto e Cristiano [Live Dia da Cerveja]" tvg-logo="" group-title="MUSICA",BR 24HZé Neto e Cristiano [Live Dia da Cerveja]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76639
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 1" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72382
+#EXTINF:-1 tvg-id="" tvg-name="BR CINESKY 2" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINESKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72383
+#EXTINF:-1 tvg-id="" tvg-name="BR CINESKY 3" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINESKY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72384
+#EXTINF:-1 tvg-id="" tvg-name="BR CINESKY 4" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINESKY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72385
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 05" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72408
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 06" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72409
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 07" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72410
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 08" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72411
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 09" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72412
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY 10" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72413
+#EXTINF:-1 tvg-id="" tvg-name="BR CINE SKY LIGA DA JUSTIÇA" tvg-logo="https://www.kanawat.com.br/icons/brcinesky.png" group-title="FILMES",BR CINE SKY LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72414
+
