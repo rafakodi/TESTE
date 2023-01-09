@@ -1,6 +1,7 @@
 #EXTM3U 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="TV ABERTA",TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title="TV ABERTA",SBT SP 4K
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=SERVIDOR 1&maxbitrate=0&buffer=1&url=http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64404
